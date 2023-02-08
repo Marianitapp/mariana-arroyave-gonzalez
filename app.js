@@ -1,24 +1,52 @@
 document.addEventListener("DOMContentLoaded", () => {
   const cardsAdj = [
     {
-      name: 'mcqueen'
-      img:'imagenes/rayo.png'
-     
+      name: "mcqueen",
+      img: "imagenes/mcqueen.png"
     },
     {
-      name: 'Sterling'
-      img:'imagenes/.inom.jpg'
-     
+      name: "sterling",
+      img: "imagenes/sterling.jpg"
     },
-     {
-      name: 'Jackson storm'
-      img:'imagenes/juli.jpg'
-     },
-     {
-      name: 'mcqueen'
-      img:'imaganes/rayo.png'
-     
+    {
+      name: "Jacksonstorm",
+      img: "imagenes/jacsonstorm.jpg"
+    },
+    {
+      name: "mate",
+      img: "imaganes/mate.jpg"
+    },
+    {
+      name: "strip",
+      img: "imaganes/stip.png"
+    },
+    {
+      name: "chuqui",
+      img: "imaganes/chuqi.jpg"
+    },
+    {
+      name: "mcqueen",
+      img: "imagenes/mcqueen.png"
+    },
+    {
+      name: "sterling",
+      img: "imagenes/sterling.jpg"
+    },
+    {
+      name: "Jacksonstorm",
+      img: "imagenes/jacsonstorm.jpg"
+    },
+    {
+      name: "mate",
+      img: "imaganes/mate.jpg"
+    },
+    {
+      name: "strip",
+      img: "imaganes/stip.png"
+    },
+    {
+      name: "chuqui",
+      img: "imaganes/chuqi.jpg"
     }
-    }
-  ]
+  ];
 });
